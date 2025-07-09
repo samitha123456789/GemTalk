@@ -28,7 +28,7 @@
 
 ## 🖼️ Preview
 
-> 🎥 Click to view full animation demo *(add a screen recording/GIF later)*
+> 🎥 Click to view full animation demo "https://gemtalk.vercel.app/"
 
 ![GemTalk Demo](https://github.com/yourusername/gemtalk/blob/main/public/demo.gif)
 
